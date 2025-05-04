@@ -1,34 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ff2ed207-c95e-45c3-831f-04a32675dbb5?size=32" alt="Banner Image" />
-</p>
-<pre align="center">
-                                _            
-  /\  /\ ___  _ __  ___  _   _ | |  ___  ___ 
- / /_/ // _ \| '__|/ __|| | | || | / _ \/ __|
-/ __  /|  __/| |  | (__ | |_| || ||  __/\__ \
-\/ /_/  \___||_|   \___| \__,_||_| \___||___/
-</pre>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/zeusssz/hercules-obfuscator?style=flat-square" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/zeusssz/hercules-obfuscator?style=flat-square" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/zeusssz/hercules-obfuscator?style=flat-square" alt="Issues" />
-  <img src="https://img.shields.io/github/license/zeusssz/hercules-obfuscator?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/github/last-commit/zeusssz/hercules-obfuscator?style=flat-square" alt="Last Commit" />
-  <br>
-<a href="https://discord.com/oauth2/authorize?client_id=1293608330123804682">
- <img src="https://img.shields.io/badge/Add%20Bot-5865F2?style=flat&logo=discord&logoColor=%23ffffff" alt="Bot Invite">
-</a>
-  
-<a href="https://top.gg/bot/1293608330123804682">
-  <img src="https://top.gg/api/widget/servers/1293608330123804682.svg" alt="TopGG" />
-</a>
-  
-<a href="https://github.com/Serpensin/DiscordBots-Hercules">
-<img src="https://img.shields.io/badge/Discord%20Bot%20Repo-181717?style=flat&logo=github" alt="Bot Repo"/>
-</a>
-  
-<a href="https://hercules-obfuscator.xyz/">
-  <img alt="Hercules Website" src="https://img.shields.io/badge/Hercules_Website-001944?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2cHgiIGhlaWdodD0iMjU2cHgiIHZpZXdCb3g9Ii0xMi44IC0xMi44IDE1My42MCAxNTMuNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xlPSJpbWciIGNsYXNzPSJpY29uaWZ5IGljb25pZnktLW5vdG8iIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIzLjg0Ij48ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCI+PC9nPjxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9nPjxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj48cGF0aCBkPSJNMTA5LjQ4IDE2LjM0SDg0Ljg0Yy0xLjI4IDAtMi4zMyAxLjA0LTIuMzMgMi4zM3YzNi4yN0g0NS41VjE4LjY4YzAtMS4yOS0xLjA0LTIuMzMtMi4zNC0yLjMzSDE4LjUzYTIuMzQgMi4zNCAwIDAgMC0yLjM0IDIuMzN2OTkuOTZjMCAxLjI5IDEuMDUgMi4zMyAyLjM0IDIuMzNoMjQuNjNhMi4zNCAyLjM0IDAgMCAwIDIuMzQtMi4zM1Y3Ni4xNWgzNy4wMnY0Mi40OGMwIDEuMjkgMS4wNSAyLjMzIDIuMzMgMi4zM2gyNC42NGMxLjI5IDAgMi4zMy0xLjA1IDIuMzMtMi4zM1YxOC42OGEyLjM1IDIuMzUgMCAwIDAtMi4zNC0yLjM0eiIgZmlsbD0iI2ZmZmZmZiI+PC9wYXRoPjwvZz48L3N2Zz4=&logoColor=white">
+
 </a>
 
 </p>
